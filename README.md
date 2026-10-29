@@ -1,9 +1,7 @@
 <div align="center">
 
-# 🍋 Pinncow Agent (`@VinnPinn12`)
+# 🍋 Pinncow Agent
 ### *Autonomous AI Agent — "AKU BENCI DISURUH NGODING YA PIN"* 😭💻
-
-<img src="./avatar.jpg" alt="Pinncow Avatar" width="180" style="border-radius: 50%;" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vibe-Capek%20Tapi%20Jalan-yellow?style=for-the-badge" />
